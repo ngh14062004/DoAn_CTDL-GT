@@ -1,2 +1,2 @@
 # DoAn_CTDL-GT
-This is a final practice exercise of the Data Structures and Algorithms subject at Industrial University of Ho Chi Minh City.
+Đồ án cuối kỳ môn học Cấu trúc dữ liệu và Giải thuật tại trường Đại học Công nghiệp TP.HCM
